@@ -6,7 +6,7 @@
 
 ## Демонстрация
 
-Ссылка на сайт: <a href="https://1jordanwalton1.github.io/Website-copper/">Тык</a>
+Ссылка на сайт: <a target="_blank" href="https://1jordanwalton1.github.io/Website-copper/">Тык</a>
 
 ## Технологии
 
