@@ -1,6 +1,6 @@
 # Website-copper
 
-Сайт-портфолио.
+Сайт.
 
 Сделал: <a href="https://github.com/1JordanWalton1">Jordan Walton</a>
 
