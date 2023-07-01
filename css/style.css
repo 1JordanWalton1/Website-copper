@@ -3238,7 +3238,7 @@ h6 {
   }
 
   #about .header {
-    padding-bottom: 3.3125rem;
+    padding-bottom: 2.3125rem;
   }
 
   .about-us {
@@ -3404,7 +3404,7 @@ h6 {
   }
 
   #catalog .header {
-    padding-bottom: 3.3125rem;
+    padding-bottom: 2.3125rem;
   }
 
   #catalog #cart-count {
@@ -3488,7 +3488,7 @@ h6 {
   }
 
   #news .header {
-    padding-bottom: 3.3125rem;
+    padding-bottom: 2.3125rem;
   }
 
   .news {
@@ -3528,7 +3528,7 @@ h6 {
   }
 
   #news-inside .header {
-    padding-bottom: 3.3125rem;
+    padding-bottom: 2.3125rem;
   }
 
   .inside-news {
@@ -3588,7 +3588,7 @@ h6 {
   }
 
   #card-product .header {
-    padding-bottom: 3.3125rem;
+    padding-bottom: 2.3125rem;
   }
 
   #card-product .opinion__el:not(:last-child) {
